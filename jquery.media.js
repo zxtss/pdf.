@@ -463,3 +463,4 @@ function generate(el, opts, player) {
   
   
 })(jQuery);  
+//插件非本人所写
